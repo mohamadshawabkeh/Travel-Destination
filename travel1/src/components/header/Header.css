@@ -1,0 +1,17 @@
+
+Header {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  Header h1 {
+    font-size: 36px;
+    color: #333;
+    margin: 0;
+    text-align: center;
+  }
+  Header nav {
+    text-align: center;
+    
+  }
+  
