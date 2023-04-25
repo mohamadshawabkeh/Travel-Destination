@@ -1,0 +1,20 @@
+.tour {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .tour h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .tour img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+  
+  

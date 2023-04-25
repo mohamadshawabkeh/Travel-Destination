@@ -1,3 +1,5 @@
+import '../footer/Footer.css'
+
 function Footer(){
     const author = "Mohammad Shawabkeh, ASAC Student.";
     const socialMediaLinks = [
